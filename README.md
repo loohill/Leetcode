@@ -2,7 +2,7 @@
 
 Hello! 
 
-My name is Hill and I love solving Leetcode problems, just for fun! 
+My name is Hill, and I love solving Leetcode problems, **just for fun**! 
 
 This gitbook aggregates the solutions \(in Golang\) I wrote for the Leetcode problems, classifies by common algorithms and with my own explaination. 
 
