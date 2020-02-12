@@ -14,5 +14,7 @@
 * [Dynamic Programming](dp/README.md)
   * [91. Decode Ways](dp/91.-decode-ways.md)
 * [Number Game](number-game/README.md)
-  * [31. Next Permutation](number-game/31.-next-permutation.md)
+  * [Next Closest Number](number-game/next-closest-number/README.md)
+    * [31. Next Permutation](number-game/next-closest-number/31.-next-permutation.md)
+    * [681. Next Closest Time](number-game/next-closest-number/681.-next-closest-time.md)
 
