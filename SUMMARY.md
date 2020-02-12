@@ -13,4 +13,6 @@
   * [1348. Tweet Counts Per Frequency](ood/1348.-tweet-counts-per-frequency.md)
 * [Dynamic Programming](dp/README.md)
   * [91. Decode Ways](dp/91.-decode-ways.md)
+* [Number Game](number-game/README.md)
+  * [31. Next Permutation](number-game/31.-next-permutation.md)
 
