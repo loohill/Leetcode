@@ -11,6 +11,8 @@
   * [986. Interval List Intersections](sweeping-line/986.-interval-list-intersections.md)
 * [OOD](ood/README.md)
   * [1348. Tweet Counts Per Frequency](ood/1348.-tweet-counts-per-frequency.md)
+* [Divide & Conquer](divide-and-conquer/README.md)
+  * [395. Longest Substring with At Least K Repeating Characters](divide-and-conquer/395.-longest-substring-with-at-least-k-repeating-characters.md)
 * [Dynamic Programming](dp/README.md)
   * [91. Decode Ways](dp/91.-decode-ways.md)
 * [Number Game](number-game/README.md)
