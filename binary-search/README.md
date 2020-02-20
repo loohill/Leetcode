@@ -12,5 +12,13 @@ for start + 1 < end {
         start = mid
     }
 }
+
+if nums[start] == target {
+    return start
+} else if nums[end] == target {
+    return end
+}
+
+return -1 // not within array
 ```
 
