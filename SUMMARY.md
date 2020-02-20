@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Binary Search](binary-search/README.md)
+  * [29. Divide Two Integers](binary-search/29.-divide-two-integers.md)
 * [BFS](bfs/README.md)
   * [314. Binary Tree Vertical Order Traversal](bfs/314.-binary-tree-vertical-order-traversal.md)
 * [HashMap](hashmap/README.md)
