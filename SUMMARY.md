@@ -22,6 +22,7 @@
   * [Next Closest Number](number-game/next-closest-number/README.md)
     * [31. Next Permutation](number-game/31.-next-permutation.md)
     * [681. Next Closest Time](number-game/next-closest-number/681.-next-closest-time.md)
+  * [1362. Closest Divisors](number-game/1362.-closest-divisors.md)
 
 ## Index
 
