@@ -4,6 +4,7 @@
 * [Binary Search](binary-search/README.md)
   * [29. Divide Two Integers](binary-search/29.-divide-two-integers.md)
 * [BFS](bfs/README.md)
+  * [199. Binary Tree Right Side View](bfs/199.-binary-tree-right-side-view.md)
   * [314. Binary Tree Vertical Order Traversal](bfs/314.-binary-tree-vertical-order-traversal.md)
 * [HashMap](hashmap/README.md)
   * [1347. Minimum Number of Steps to Make Two Strings Anagram](hashmap/1347.-minimum-number-of-steps-to-make-two-strings-anagram.md)
@@ -20,12 +21,11 @@
   * [91. Decode Ways](dp/91.-decode-ways.md)
 * [Number Game](number-game/README.md)
   * [Next Closest Number](number-game/next-closest-number/README.md)
-    * [31. Next Permutation](number-game/31.-next-permutation.md)
+    * [31. Next Permutation](number-game/next-closest-number/31.-next-permutation.md)
     * [681. Next Closest Time](number-game/next-closest-number/681.-next-closest-time.md)
   * [1362. Closest Divisors](number-game/1362.-closest-divisors.md)
 
 ## Index
 
 * [Substring](index/substring.md)
-* [199. Binary Tree Right Side View](199.-binary-tree-right-side-view.md)
 
